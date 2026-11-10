@@ -1,0 +1,6 @@
+{
+  "post_type": ["Policy interpretation", "Public-service notice", "Emergency warning", "Disaster broadcast", "Rumor clarification", "Accountability notice", "Salute or blessing", "Governance achievement", "Other"],
+  "sentiment": ["Positive", "Neutral", "Anxiety", "Anger", "Distrust or sarcasm", "Sadness"],
+  "demand": ["Policy explanation", "Procedure consultation", "Complaint or reporting", "Fact-checking or rumor clarification", "Emergency assistance", "Accountability inquiry", "Emotional expression", "No explicit demand"],
+  "priority": ["No response required", "Low priority", "Medium priority", "High priority"]
+}

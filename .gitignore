@@ -1,0 +1,12 @@
+__pycache__/
+.DS_Store
+.venv/
+*.xlsx
+*.csv
+*.jsonl
+*.pt
+*.npz
+.env
+private/
+runs/
+results/
